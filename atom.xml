@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cabbage9.github.io</id>
+    <title>Cabbage Garden</title>
+    <updated>2021-07-12T09:28:28.129Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cabbage9.github.io"/>
+    <link rel="self" href="https://cabbage9.github.io/atom.xml"/>
+    <subtitle>The best time to plant a tree is 20 years ago.
+The second-best time is now.</subtitle>
+    <logo>https://cabbage9.github.io/images/avatar.png</logo>
+    <icon>https://cabbage9.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Cabbage Garden</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://cabbage9.github.io/MPcHUFWQA/</id>
+        <link href="https://cabbage9.github.io/MPcHUFWQA/">
+        </link>
+        <updated>2021-07-12T09:14:17.000Z</updated>
+    </entry>
+</feed>
